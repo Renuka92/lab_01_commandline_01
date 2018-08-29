@@ -291,4 +291,4 @@ A directory is relatively the same thing as a folder and is used to organize fil
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
 
-/Users/username/Downloads
+/Users/Renuka/Downloads
