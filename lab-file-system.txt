@@ -267,13 +267,13 @@ $ pwd
 26. What flag do I pass to ls to print out all files?
 ----------
 
--l
+-a
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-cd ~
+~
 
 ==========
 28. What's a pathname?
